@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:strength/dumbellcalculator.dart';
-import 'package:strength/percentof1rm.dart';
-import 'package:strength/platecalculator.dart';
+import 'package:strength/Widgets/DumbbellCalculator.dart';
+import 'package:strength/MaxPage.dart';
+import 'package:strength/Widgets/PlateCalculator.dart';
 
 // void main() {
 //   runApp(const MyApp());
@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           // or simply save your changes to "hot reload" in a Flutter IDE).
           // Notice that the counter didn't reset back to zero; the application
           // is not restarted.
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.deepOrange,
         ),
         home: MyHomePage());
   }
@@ -40,7 +40,7 @@ class MyHomePage extends StatelessWidget {
       title: 'My App', // Set app title
       theme: ThemeData(
         // Define app theme
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.deepOrange,
       ),
       home: Scaffold(
         appBar: AppBar(
@@ -55,7 +55,7 @@ class MyHomePage extends StatelessWidget {
             ),
             Expanded(
               // Use Expanded widget to take up remaining space
-              child: PlateCalculatorApp(),
+              child: PlateCalculator(),
             ),
             ElevatedButton(
               onPressed: () {
@@ -64,7 +64,7 @@ class MyHomePage extends StatelessWidget {
                   context,
                   MaterialPageRoute(
                     builder: (context) =>
-                        OneRepMaxCalculator(), // Replace with the page you want to navigate to
+                        MaxPage(), // Replace with the page you want to navigate to
                   ),
                 );
               },

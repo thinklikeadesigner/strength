@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:strength/dumbellcalculator.dart';
 
-class PlateCalculatorApp extends StatefulWidget {
+class PlateCalculator extends StatefulWidget {
   @override
-  _PlateCalculatorAppState createState() => _PlateCalculatorAppState();
+  _PlateCalculatorState createState() => _PlateCalculatorState();
 }
 
-class _PlateCalculatorAppState extends State<PlateCalculatorApp> {
+class _PlateCalculatorState extends State<PlateCalculator> {
   double BARBELL_WEIGHT = 45.0; // Weight of the barbell in pounds
   List<double> PLATE_WEIGHTS = [45.0, 35.0, 25.0, 10.0, 5.0, 2.5];
 

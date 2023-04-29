@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Barbell Bench Press",
+    "muscleGroup": "Chest",
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "muscleGroup": "Chest",
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Pull-ups",
+    "muscleGroup": "Back",
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Barbell Rows",
+    "muscleGroup": "Back",
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Barbell Squats",
+    "muscleGroup": "Legs",
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Lunges",
+    "muscleGroup": "Legs",
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "muscleGroup": "Shoulders",
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Lateral Raises",
+    "muscleGroup": "Shoulders",
+    "equipment": "Dumbbell"
+  }
+]

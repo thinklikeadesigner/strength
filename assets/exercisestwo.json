@@ -1,0 +1,142 @@
+{
+  "chest": [
+    "barbell bench press",
+    "barbell decline bench press",
+    "barbell incline bench press",
+    "dumbbell incline bench press",
+    "dumbbell bench press",
+    "dumbbell chest fly",
+    "chest press machine",
+    "pec dec machine",
+    "push up",
+    "Bodyweight Dips."
+  ],
+  "shoulders": [
+    "Barbell overhead press",
+    "Dumbbell Seated overhead Press",
+    "dumbbell overhead press",
+    "lying leg curl",
+    "deficit deadlift",
+    "Romanian deadlifts"
+  ],
+  "hamstrings": [
+    "single leg deadlift",
+    "seated calf raise",
+    "sumo squats",
+    "bulgarian split squats",
+    "bridge",
+    "deadlift",
+    "lying leg curl",
+    "deficit deadlift",
+    "Romanian deadlifts",
+    "single-leg deadlifts",
+    "Sumo deadlifts"
+  ],
+  "calves": [
+    "seated calf raise",
+    "calf raise"
+  ],
+  "quads": [
+    "Squats",
+    "Front squats",
+    "Leg press",
+    "Bulgarian split squats",
+    "Sumo squats",
+    "hack squats",
+    "Barbell hip thrusts",
+    "seated calf raise"
+  ],
+  "glutes": [
+    "Hip thrusts",
+    "Glute bridges"
+  ],
+  "biceps": [
+    "Barbell curls",
+    "Dumbbell curls",
+    "Preacher curls",
+    "Hammer curls",
+    "Concentration curls",
+    "Cable curls"
+  ],
+  "triceps": [
+    "Close-grip bench press",
+    "Overhead tricep extensions",
+    "Skull crushers",
+    "Cable pushdowns",
+    "Tricep kickbacks",
+    "Diamond push-ups",
+    "Tricep dips"
+  ],
+  "forearms": [
+    "Wrist curls",
+    "Reverse wrist curls",
+    "Hand gripper exercises",
+    "Plate pinches"
+  ],
+  "traps": [
+    "Barbell shrugs",
+    "Dumbbell shrugs",
+    "Upright rows",
+    "Face pulls"
+  ],
+  "lats": [
+    "deadlift",
+    "Barbell rows",
+    "Single-arm dumbbell rows",
+    "Chin-ups or Pull-ups (with a wide grip)",
+    "Lat pulldowns",
+    "Pull-ups",
+    "kipping pull-up",
+    "incline row",
+    "trx inverted row"
+  ],
+  "core": [
+    "Planks",
+    "toe-to-bar",
+    "Back extensions"
+  ],
+  "spinal erectors": [
+    "Deadlifts",
+    "Good mornings",
+    "Hyperextensions",
+    "Romanian deadlifts"
+  ],
+  "legs": [
+    "deadlift",
+    "sumo squats",
+    "bridge",
+    "Chin-ups or Pull-ups (with a wide grip)",
+    "Front squats",
+    "Leg press",
+    "Bulgarian split squats",
+    "Sumo deadlifts",
+    "Squats",
+    "hack squats"
+  ],
+   "back": [
+    "deadlift",
+    "Barbell rows",
+    "T-bar rows",
+    "Single-arm dumbbell rows",
+    "bent over dumbell row",
+    "Seated cable rows",
+    "Lat pulldowns",
+    "Pull-ups",
+    "Chin-ups",
+    "Good mornings",
+    "Hyperextensions",
+    "Back extensions",
+    "barbell shrug",
+    "Seated cable rows",
+    "Barbell shrugs",
+    "Dumbbell shrugs",
+    "Upright rows",
+    "Face pulls",
+    "Pull-ups or Chin-ups (with a wide grip)",
+    "Dumbbell high pulls",
+    "Power cleans",
+    "kipping pull-up",
+    "incline row",
+    "trx inverted row"
+  ]
+}
