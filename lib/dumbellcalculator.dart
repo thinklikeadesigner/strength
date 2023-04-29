@@ -24,7 +24,7 @@ class _DumbbellCalculatorState extends State<DumbbellCalculator> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(40),
+      padding: EdgeInsets.fromLTRB(40, 0, 40, 0),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [

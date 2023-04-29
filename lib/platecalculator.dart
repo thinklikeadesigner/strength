@@ -37,7 +37,7 @@ class _PlateCalculatorAppState extends State<PlateCalculatorApp> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(40),
+      padding: EdgeInsets.fromLTRB(40, 0, 40, 0),
       child: Column(
         children: <Widget>[
           TextField(
@@ -48,7 +48,7 @@ class _PlateCalculatorAppState extends State<PlateCalculatorApp> {
               });
             },
             decoration: InputDecoration(
-              labelText: 'Desired Total Weight (in pounds)',
+              labelText: 'Desired Total Weight > 45 lbs',
             ),
           ),
           ElevatedButton(
